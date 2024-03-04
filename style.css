@@ -1,8 +1,8 @@
 :root {
   --main-font: "Playfair Display", serif;
   --second-font: "Poppins", sans-serif;
-  --bg-color: #f9f7fe;
-  --main-color: #6c63ff;
+  --bg-color: #fff8e7;
+  --main-color: #235789;
 }
 .hero {
   background: var(--bg-color);
